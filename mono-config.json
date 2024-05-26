@@ -85,6 +85,10 @@
     },
     {
       "behavior": "assembly",
+      "name": "FSharp.Collections.ParallelSeq.dll"
+    },
+    {
+      "behavior": "assembly",
       "name": "FSharp.Core.dll"
     },
     {
